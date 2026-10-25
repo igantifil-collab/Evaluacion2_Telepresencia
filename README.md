@@ -1,7 +1,7 @@
 Evaluación Parcial N°2 - Telepresencia
 
-Integrantes:Ignacio Antifil / Mauricio Chacano  
-Asignatura:Telepresencia
+Integrantes: Ignacio Antifil / Mauricio Chacano  
+Asignatura: Telepresencia
 
 Descripción del Proyecto:
 
