@@ -31,7 +31,7 @@ Como Ejecutar el script desde la terminal:
    python3 geolocalizacion.py
 ```
 Allí le pedirán lo siguiente:
-Ingrese la ciudad de origen (ej. Santiago, Chile).
-Ingrese la ciudad de destino (ej. Valparaíso, Chile).
-El código le calculara la ruta a tomar
-Para finalizar el programa, escriba s o salir.
+- Ingrese la ciudad de origen (ej. Santiago, Chile).
+- Ingrese la ciudad de destino (ej. Valparaíso, Chile).
+- El código le calculara la ruta a tomar
+- Para finalizar el programa, escriba s o salir.
