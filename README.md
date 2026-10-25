@@ -25,11 +25,11 @@ Para ejecutar la consulta e interacción con la API de la biblioteca local:
  python3 agregar_50_libros.py
 ```
 2. Script de Geolocalización (geolocalizacion.py)
-3. 
+
 Como Ejecutar el script desde la terminal:
    ```bash
    python3 geolocalizacion.py
-
+```
 Allí le pedirán lo siguiente:
 Ingrese la ciudad de origen (ej. Santiago, Chile).
 Ingrese la ciudad de destino (ej. Valparaíso, Chile).
